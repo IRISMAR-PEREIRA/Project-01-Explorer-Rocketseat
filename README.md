@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Projeto-01 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse projeto, tive a oportunidade de aprimorar meus conhecimentos a respeito de:
 
 - exportar imagens do Figma e estruturar o projeto;
-- elementos <div>, <img>, <h1> , <a> e <p>;
+- elementos 'div', 'img', 'h1' , 'a' e 'p';
 - propriedades src, href e id;
 - posição de elementos, respeitando a ordem do HTML (block e inline);
 - elementos <span> e <strong>;
