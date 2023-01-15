@@ -29,12 +29,23 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto-04 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse projeto, tive a oportunidade de aprimorar meus conhecimentos a respeito de:
+O Projeto-01 foi destinado a apresentar conceitos básicos de HTML e CSS. Nesse projeto, tive a oportunidade de aprimorar meus conhecimentos a respeito de:
 
-- responsividade, fazendo com que o site se adapte em diversas resoluções de tela;
+- exportar imagens do Figma e estruturar o projeto;
+- elementos <div>, <img>, <h1> , <a> e <p>;
+- propriedades src, href e id;
+- posição de elementos, respeitando a ordem do HTML (block e inline);
+- elementos <span> e <strong>;
+- fontes customizadas e estilização do projeto;
+- aplicação de cores ao textos do projeto de acordo com o layout do Figma;
+- algumas propriedades do CSS: color, font-size, line-height, font-weight;
+- organização do código CSS e alinhamento dos textos e elementos da página utilizando as propriedades do CSS "text-align";
+- ajuste do texto do projeto e quebra de linhas como uma maneira de utilizar espaços;
+- propriedades "margin" do CSS (aplicamos o "shorthand" em um trecho de código e ajustamos os espaçamentos do projeto);
+- adicionar uma linha na página com a propriedade border do CSS;
+- posicionamento de elementos na página utilizando a propriedade "position" do CSS.
 
-
-  
+<br/>  
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
